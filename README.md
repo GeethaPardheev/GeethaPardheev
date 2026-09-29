@@ -23,7 +23,7 @@ class Pardheev:
     role       = "Backend Software Engineer · Distributed Systems · Production AI/LLM"
     education  = "B.Tech, IIT Kharagpur (2018–2022) · GPA 8.43"
     experience = "4+ years  →  Amazon  ·  Toyota Connected  ·  Founding Engineer at a 0→1 startup"
-    builds     = ["low-latency services", "real-time voice AI", "agent orchestration", "LLM evals"]
+    builds     = ["distributed backends", "LLM & agent systems", "AI evaluation", "real-time voice AI"]
     speaks     = ["Python", "Java", "Rust", "Go", "C++", "Kotlin"]
     research   = ["ACM WWW Companion '23", "Expert Systems with Applications '22"]
 
