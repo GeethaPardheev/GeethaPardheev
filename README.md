@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/header-v2.svg" width="100%" alt="Geetha Pardheev · Backend & AI Infrastructure Engineer"/>
+<img src="assets/header-v2.svg" width="100%" alt="Geetha Pardheev · Senior Software Engineer · Backend & Applied AI"/>
 
 <p>
 <a href="https://linkedin.com/in/geetha-pardheev"><img src="https://img.shields.io/badge/LinkedIn-geetha--pardheev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 
 ```python
 class Pardheev:
-    role       = "Backend Software Engineer · Distributed Systems · Production AI/LLM"
+    role       = "Senior Software Engineer · Backend & Applied AI · Distributed Systems"
     education  = "B.Tech, IIT Kharagpur (2018–2022) · GPA 8.43"
     experience = "4+ years  →  Amazon  ·  Toyota Connected  ·  Founding Engineer at a 0→1 startup"
     builds     = ["distributed backends", "LLM & agent systems", "AI evaluation", "real-time voice AI"]
@@ -218,7 +218,7 @@ End-to-end NLP pipeline over **16,323** unstructured construction accident repor
 
 ### 🤝 Let's build something that scales
 
-Hiring for **backend, distributed systems or AI infrastructure** roles? I'd love to talk.
+Hiring for **senior backend, distributed systems or applied AI** roles? I'd love to talk.
 
 <a href="mailto:geethapardheev2@gmail.com"><img src="https://img.shields.io/badge/Say_hello-geethapardheev2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/geetha-pardheev"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
