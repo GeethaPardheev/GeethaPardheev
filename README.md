@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Geetha%20Pardheev&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Backend%20%26%20AI%20Infrastructure%20Engineer%20%C2%B7%20IIT%20Kharagpur&descAlignY=58&descSize=17" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=2C9CDB&center=true&vCenter=true&width=720&lines=I+build+distributed+systems+that+talk+back.;Real-time+voice+AI+%C2%B7+36M%2B+production+calls+served;Ex-Amazon+%C2%B7+Ex-Toyota+Connected+%C2%B7+Founding+Engineer;Published+NLP+researcher+%C2%B7+ACM+WWW+'23" alt="Typing SVG"/></a>
+<img src="assets/header.svg" width="100%" alt="Geetha Pardheev · Backend & AI Infrastructure Engineer"/>
 
 <p>
 <a href="https://linkedin.com/in/geetha-pardheev"><img src="https://img.shields.io/badge/LinkedIn-geetha--pardheev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,7 +22,7 @@
 class Pardheev:
     role       = "Backend Software Engineer · Distributed Systems · Production AI/LLM"
     education  = "B.Tech, IIT Kharagpur (2018–2022) · GPA 8.43"
-    experience = "4+ years  →  Amazon  ·  Toyota Connected  ·  Founding Engineer @ HiRobin"
+    experience = "4+ years  →  Amazon  ·  Toyota Connected  ·  Founding Engineer at a 0→1 startup"
     builds     = ["low-latency services", "real-time voice AI", "agent orchestration", "LLM evals"]
     speaks     = ["Python", "Java", "Rust", "Go", "C++", "Kotlin"]
     research   = ["ACM WWW Companion '23", "Expert Systems with Applications '22"]
@@ -65,19 +63,11 @@ timeline
 <summary><b>🎙️ HiRobin · Founding Software Engineer</b> &nbsp;·&nbsp; <i>Mar 2026 – Sep 2026</i></summary>
 <br>
 
-A 0→1 real-time AI voice platform: phone agents that listen, reason, call tools and speak back, at scale.
+Joined as a founding engineer and built the core of a real-time AI voice platform from zero to production scale.
 
-```mermaid
-flowchart LR
-    C([📞 Caller]) <-->|bidirectional audio| WS[WebSocket Gateway<br/>session migration · recovery]
-    WS <--> V{Voice Router}
-    V -->|premium| GL[Gemini Live<br/>speech-to-speech]
-    V -->|cost-optimized| P[ASR → LLM → TTS]
-    GL & P <--> O[Agent Orchestrator<br/>tools · retries · scheduling]
-    O --> DB[(PostgreSQL · MongoDB · Redis)]
-    O --> E[Eval Stack<br/>synthetic callers · scoring]
-    E -.-> X[A/B Platform<br/>sticky assignment]
-```
+| 🎙️ Real-time voice | 🤖 Agent orchestration | 🧪 LLM evaluation | 📐 Platform & cost |
+|:---|:---|:---|:---|
+| Speech-to-speech streaming, session migration, WebSocket recovery | Tool-calling, scheduling, retries, callback recovery | Synthetic callers, regression suites, quality scoring | A/B experimentation, tracing, ~42% inference cost cut |
 
 - **Voice platform** serving **500K+ calls/day** to **100K+ DAU** at **< 2s p95**, **36M+** calls on multi-region AWS
 - **Voice infra** across Gemini Live and ASR + LLM + TTS pipelines: prewarming, session migration, resilient WebSocket recovery
@@ -222,15 +212,6 @@ End-to-end NLP pipeline over **16,323** unstructured construction accident repor
 </tr>
 </table>
 
-## 📈 GitHub activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GeethaPardheev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeethaPardheev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="languages"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethaPardheev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
-</div>
-
 ---
 
 <div align="center">
@@ -241,9 +222,5 @@ Hiring for **backend, distributed systems or AI infrastructure** roles? I'd love
 
 <a href="mailto:geethapardheev2@gmail.com"><img src="https://img.shields.io/badge/Say_hello-geethapardheev2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/geetha-pardheev"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=GeethaPardheev&color=2c5364&style=flat-square&label=Profile+views" alt="views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer"/>
 
 </div>
