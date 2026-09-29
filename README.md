@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Geetha Pardheev · Backend & AI Infrastructure Engineer"/>
+<img src="assets/header-v2.svg" width="100%" alt="Geetha Pardheev · Backend & AI Infrastructure Engineer"/>
 
 <p>
 <a href="https://linkedin.com/in/geetha-pardheev"><img src="https://img.shields.io/badge/LinkedIn-geetha--pardheev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
